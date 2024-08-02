@@ -1,0 +1,62 @@
+
+my personal google account:
+https://accounts.google.com | kanhaiya2004yadav@gmail.com | 1Molarity@
+
+my 2nd personal google account:
+https://accounts.google.com | krishnayadav9007@gmail.com | molarity@
+
+My college email id:
+NA | kanhaiya.yadav.ds26@heritageit.edu.in | 3SF6uAZP
+
+My microsoft account password:
+https://account.microsoft.com | kanhaiya2004yadav@outlook.com | $Ln6(z$0Mb&6bUgXq
+
+Other microsoft account:
+https://account.microsoft.com | krishnayadav9007@outlook.com | 9%71ifJnsi7)dY!VU
+
+My amazon account:
+https://www.amazon.in/ | kanhaiya2004yadav@gmail.com | M+)N#zfe171YFv
+
+
+{
+    "google1": {
+        "email": "kanhaiya2004yadav@gmail.com",
+        "password": "1Molarity@"
+    },
+    "google2": {
+        "email": "krishnayadav9007@gmail.com",
+        "password": "molarity@"
+    },
+    "college": {
+        "email": "kanhaiya.yadav.ds26@heritageit.edu.in",
+        "password": "3SF6uAZP"
+    },
+    "microsoft2": {
+        "email": "krishnayadav9007@outlook.com",
+        "password": "9%71ifJnsi7)dY!VU"
+    },
+    "amazon": {
+        "email": "kanhaiya2004yadav@gmail.com",
+        "password": "M+)N#zfe171YFv"
+    },
+    "microsoft1": {
+        "email": "kanhaiya2004yadav@outlook.com",
+        "password": "$Ln6(z$0Mb&6bUgXq"
+    },
+    "chess.com": {
+        "email": "kanhaiya2004yadav@gmail.com",
+        "password": "4Kanschess@"
+    },
+    "account.jetbrains.com": {
+        "email": "kanhaiya2004yadav@gmail.com",
+        "password": "4Kanspycharm@"
+    },
+    "lichess.org": {
+        "email": "kanhaiya2004yadav@gmail.com",
+        "password": "4Kanslichess@"
+    },
+    "microsoft3": {
+        "email": "nehayadav9007@outlook.com",
+        "password": "hindustaan2021"
+    }
+}
